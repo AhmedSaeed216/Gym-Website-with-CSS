@@ -1,4 +1,4 @@
-// import './App.css';
+import './App.css';
 import Foter from './components/Footer/Footer.jsx';
 import Hero from './components/Hero/hero.jsx';
 import Join from './components/Join/Join.jsx';
